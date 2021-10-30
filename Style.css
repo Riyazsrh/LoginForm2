@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Oxygen&family=Rye&display=swap');
+body {
+  background-color: #5d85c8;
+}
+.a1 {
+  border: 2px solid black;
+  background-color: white;
+  height: 307px;
+  width: 360px;
+}
+h2{
+  font-family: 'Creepster', cursive;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Rye', cursive;
+}
+form {
+  padding: 40px;
+}
+.a1 {
+  text-align: center;
+  border-radius: 20px;
+  border: 0px solid white;
+  padding: 5px;
+}
+.a2 {
+  position: absolute;
+  left: 36%;
+  top: 27%;
+}
+input {
+  width: 291px;
+  height: 29px;
+  border-radius: 10px;
+  background-color: rgb(228, 228, 228);
+  /* border-color:1px solid rgb(255, 255, 255); */
+  border: 0px solid white;
+}
+button {
+  width: 297px;
+  height: 31px;
+  border-radius: 18px;
+  background-color: rgb(49, 29, 141);
+  color: white;
+  border: 0px solid white;
+}
+.circle1 {
+  height: 50px;
+  width: 50px;
+  background-color: #00579e;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 290px;
+  left: 70px;
+}
+.circle2 {
+  height: 50px;
+  width: 50px;
+  background-color: #ee162b;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 290px;
+  left: 156px;
+}
+.circle3 {
+  height: 50px;
+  width: 50px;
+  background-color: #32a1b4;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 290px;
+  left: 240px;
+}
+input {
+  text-align: center;
+}
+.set1 {
+  position: absolute;
+  top: 11px;
+  left: 18px;
+}
+.set2 {
+  position: absolute;
+  top: 11px;
+  left: 15px;
+}
+.set3 {
+  position: absolute;
+  top: 11px;
+  left: 13px;
+}
